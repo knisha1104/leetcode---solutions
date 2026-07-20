@@ -30,10 +30,12 @@ My leetcode solutions in c++;
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
