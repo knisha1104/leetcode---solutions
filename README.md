@@ -7,6 +7,7 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/knisha1104/leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/knisha1104/leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/knisha1104/leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -23,6 +24,7 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/knisha1104/leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/knisha1104/leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
@@ -32,6 +34,7 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/knisha1104/leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
