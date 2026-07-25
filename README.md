@@ -30,6 +30,7 @@ My leetcode solutions in c++;
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/knisha1104/leetcode---solutions/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My leetcode solutions in c++;
 | [0219-contains-duplicate-ii](https://github.com/knisha1104/leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/knisha1104/leetcode---solutions/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
