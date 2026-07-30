@@ -57,4 +57,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/knisha1104/leetcode---solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
