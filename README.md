@@ -34,6 +34,7 @@ My leetcode solutions in c++;
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/knisha1104/leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -52,6 +53,7 @@ My leetcode solutions in c++;
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
