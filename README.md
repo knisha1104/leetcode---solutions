@@ -66,4 +66,5 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0009-palindrome-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/knisha1104/leetcode---solutions/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
