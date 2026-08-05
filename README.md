@@ -13,6 +13,7 @@ My leetcode solutions in c++;
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/knisha1104/leetcode---solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My leetcode solutions in c++;
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/knisha1104/leetcode---solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
