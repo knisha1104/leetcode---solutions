@@ -20,6 +20,7 @@ My leetcode solutions in c++;
 | [0003-longest-substring-without-repeating-characters](https://github.com/knisha1104/leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/knisha1104/leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/knisha1104/leetcode---solutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
@@ -73,6 +74,7 @@ My leetcode solutions in c++;
 | ------- |
 | [0009-palindrome-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/knisha1104/leetcode---solutions/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/knisha1104/leetcode---solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knisha1104/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -84,4 +86,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knisha1104/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
