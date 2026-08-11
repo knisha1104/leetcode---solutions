@@ -48,6 +48,7 @@ My leetcode solutions in c++;
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/knisha1104/leetcode---solutions/tree/master/1652-defuse-the-bomb) |
+| [1929-concatenation-of-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +93,5 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
