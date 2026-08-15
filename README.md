@@ -49,6 +49,7 @@ My leetcode solutions in c++;
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/knisha1104/leetcode---solutions/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/knisha1104/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -112,4 +113,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/knisha1104/leetcode---solutions/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/knisha1104/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
