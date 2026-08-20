@@ -24,6 +24,7 @@ My leetcode solutions in c++;
 | [0424-longest-repeating-character-replacement](https://github.com/knisha1104/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/knisha1104/leetcode---solutions/tree/master/0567-permutation-in-string) |
+| [1528-shuffle-string](https://github.com/knisha1104/leetcode---solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/knisha1104/leetcode---solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ My leetcode solutions in c++;
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/knisha1104/leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/knisha1104/leetcode---solutions/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/knisha1104/leetcode---solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/knisha1104/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/knisha1104/leetcode---solutions/tree/master/1929-concatenation-of-array) |
