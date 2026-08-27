@@ -18,6 +18,7 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/knisha1104/leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/knisha1104/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/knisha1104/leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/knisha1104/leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
@@ -40,6 +41,7 @@ My leetcode solutions in c++;
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/knisha1104/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/knisha1104/leetcode---solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/knisha1104/leetcode---solutions/tree/master/0066-plus-one) |
@@ -122,4 +124,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/knisha1104/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/knisha1104/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
