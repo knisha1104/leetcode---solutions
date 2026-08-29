@@ -60,6 +60,7 @@ My leetcode solutions in c++;
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/knisha1104/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knisha1104/leetcode---solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/knisha1104/leetcode---solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -85,6 +86,7 @@ My leetcode solutions in c++;
 | ------- |
 | [0009-palindrome-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/knisha1104/leetcode---solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/knisha1104/leetcode---solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/knisha1104/leetcode---solutions/tree/master/0877-stone-game) |
@@ -128,4 +130,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/knisha1104/leetcode---solutions/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/knisha1104/leetcode---solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
