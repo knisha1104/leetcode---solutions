@@ -88,6 +88,7 @@ My leetcode solutions in c++;
 | [0009-palindrome-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/knisha1104/leetcode---solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/knisha1104/leetcode---solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/knisha1104/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/knisha1104/leetcode---solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/knisha1104/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/knisha1104/leetcode---solutions/tree/master/0877-stone-game) |
@@ -113,6 +114,7 @@ My leetcode solutions in c++;
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/knisha1104/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/knisha1104/leetcode---solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -138,4 +140,8 @@ My leetcode solutions in c++;
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/knisha1104/leetcode---solutions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/knisha1104/leetcode---solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
